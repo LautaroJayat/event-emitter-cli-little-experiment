@@ -1,0 +1,21 @@
+{
+  "name": "gambling-event-emitter",
+  "version": "1.0.0",
+  "description": "A little experiment implementing event emitter and class/extends",
+  "main": "bin/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "class",
+    "extends",
+    "javascript",
+    "nodejs",
+    "eventEmitter"
+  ],
+  "author": "Lautaro Jayat",
+  "license": "MIT",
+  "bin": {
+    "app": "./bin/app.js"
+  }
+}
