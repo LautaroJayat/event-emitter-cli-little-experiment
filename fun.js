@@ -1,7 +1,7 @@
 //  Just a validation function,
 var validate = function (cmds) {
     if (cmds.length < 8) {
-        console.log('\nHey! Its seems that you dont know how to use this wonderful game\n\n Just type "node app [p1] [kind/asshole] [p2] [kind/asshole] [p3] [kind/asshole]" \n\nWhere [p1] [p2] and [p3] are the names of the players and the others fields says something about them');
+        console.log('\nHey! Its seems that you dont know how to use this wonderful game\n\nJust type "node app [p1] [kind/asshole] [p2] [kind/asshole] [p3] [kind/asshole]" \n\nWhere [p1] [p2] and [p3] are the names of the players and the others fields says something about them');
         process.exit();
     }
 

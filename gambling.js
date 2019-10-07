@@ -1,4 +1,5 @@
 #!/usr/bin/env node
+
 //  Requiring the arguments of the command line
 const cmds = process.argv;
 
